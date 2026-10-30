@@ -1,4 +1,4 @@
 # git-pickles
 Testing git
 
-Practice ground for Rhian & Lucy
+Status: This repo for Lucy and Rhian which is in progress
